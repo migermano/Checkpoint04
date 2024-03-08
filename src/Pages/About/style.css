@@ -1,0 +1,17 @@
+.componente-about {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .componente-about h3 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .componente-about p {
+    color: #666;
+    font-size: 16px;
+  }
